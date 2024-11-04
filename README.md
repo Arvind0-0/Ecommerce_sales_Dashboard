@@ -17,3 +17,7 @@ Deep dive into product performance to refine inventory or marketing strategies.
 Slice and dice your data by date, product category, or location.
 Easily navigate between different views for detailed analysis.
 Drill down for more granular data when exploring specific insights.
+
+
+Here is the Screenshot of Dashboard
+![image](https://github.com/user-attachments/assets/ef8c75f4-b5a5-42aa-8748-8861d3dc4487)
